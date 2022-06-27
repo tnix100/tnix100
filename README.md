@@ -37,7 +37,7 @@ CloudLink is a very powerful WebSocket extension for Scratch. Whether you're mak
 
 
 # Social
-Discord: Tnix#2328
+Discord: [Tnix#2328](https://discord.com/users/825961125522702386/)
 
 Email: [hi@tnix.software](mailto:hi@tnix.software), [tnix@meower.org](mailto:tnix@meower.org)
 
